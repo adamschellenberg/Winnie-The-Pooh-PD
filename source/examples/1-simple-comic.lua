@@ -30,6 +30,9 @@ example1 = {
 			},
 		},
 		{
+			frame = {
+				height = 480
+			},
 			layers = {
 				{ text = "Here is Edward Bear, coming downstairs",x = 10, y = 10 },
 				{ text = "now, bump, bump, bump, on the back of", x = 10, y = 30},
